@@ -1,0 +1,8 @@
+#myBtn {
+    position: absolute;
+    border: 2px black solid;
+    padding: 5px;
+    border-radius: 3px;
+    top: 10px;
+    left: 10px;
+}
